@@ -1,4 +1,5 @@
 # Description
+
 Simple plugin of JQuery to select all checkbox.
 
 #Install
