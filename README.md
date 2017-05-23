@@ -1,16 +1,13 @@
-# Description
-
+## Description
 Simple plugin of JQuery to select all checkbox.
 
-#Install
-
+##Install
 In a browser:
 
     <script src="yourpath/jquery.min.js"></script>
-    <script src="yourpath/jquery.selectAll.js"></script>
+    <script src="yourpath/jquery.selectAll.js"></script>    
     
-#Usage
-
+##Usage
 Simple Use:
 
      $.selectAll();
@@ -22,6 +19,5 @@ or
         checkbox : '.j-chk' 
     });
     
-#License
-
+##License
 MIT
