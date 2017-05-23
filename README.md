@@ -1,5 +1,6 @@
 # Description
 Simple plugin of JQuery to select all checkbox.
+
 #Install
 In a browser:
 
@@ -8,12 +9,15 @@ In a browser:
     
 #Usage
 Simple Use:
+
      $.selectAll();
+     
 or
 
     $.selectAll({
         selectbutton : '.j-selectAll', 
         checkbox : '.j-chk' 
     });
+    
 #License
 MIT
